@@ -1,0 +1,5 @@
+.idea
+build
+data/*.db
+log/*.log
+node_modules
